@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP Code\\modelBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|d:\\asp code\\modelbinding\\modelbinding\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|D:\\ASP Code\\modelBinding\\modelbinding\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|d:\\asp code\\modelbinding\\modelbinding\\views\\student\\withviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\views\\student\\withviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|D:\\ASP Code\\modelBinding\\modelbinding\\views\\student\\withoutviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\views\\student\\withoutviewmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|D:\\ASP Code\\modelBinding\\modelbinding\\models\\marksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\models\\marksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|D:\\ASP Code\\modelBinding\\modelbinding\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\models\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|D:\\ASP Code\\modelBinding\\modelbinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529302C-3842-41BA-A5D5-AA6FCC64CA03}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP Code\\modelBinding\\modelBinding\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "modelBinding\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP Code\\modelBinding\\modelBinding\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "modelBinding\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAIMzMzMzMLwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:13:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marksheet.cs",
+              "DocumentMoniker": "D:\\ASP Code\\modelBinding\\modelBinding\\Models\\Marksheet.cs",
+              "RelativeDocumentMoniker": "modelBinding\\Models\\Marksheet.cs",
+              "ToolTip": "D:\\ASP Code\\modelBinding\\modelBinding\\Models\\Marksheet.cs",
+              "RelativeToolTip": "modelBinding\\Models\\Marksheet.cs",
+              "ViewState": "AgIAAAMAAACgMjMzMzMbwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:01:10.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WithViewModel.cshtml",
+              "DocumentMoniker": "D:\\ASP Code\\modelBinding\\modelBinding\\Views\\Student\\WithViewModel.cshtml",
+              "RelativeDocumentMoniker": "modelBinding\\Views\\Student\\WithViewModel.cshtml",
+              "ToolTip": "D:\\ASP Code\\modelBinding\\modelBinding\\Views\\Student\\WithViewModel.cshtml",
+              "RelativeToolTip": "modelBinding\\Views\\Student\\WithViewModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:55:32.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WithoutViewModel.cshtml",
+              "DocumentMoniker": "D:\\ASP Code\\modelBinding\\modelBinding\\Views\\Student\\WithoutViewModel.cshtml",
+              "RelativeDocumentMoniker": "modelBinding\\Views\\Student\\WithoutViewModel.cshtml",
+              "ToolTip": "D:\\ASP Code\\modelBinding\\modelBinding\\Views\\Student\\WithoutViewModel.cshtml",
+              "RelativeToolTip": "modelBinding\\Views\\Student\\WithoutViewModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:11:25.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ASP Code\\modelBinding\\modelBinding\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "modelBinding\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ASP Code\\modelBinding\\modelBinding\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "modelBinding\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACQAAAAAyMzMzEwVwCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:11:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "D:\\ASP Code\\modelBinding\\modelBinding\\Models\\Assessment.cs",
+              "RelativeDocumentMoniker": "modelBinding\\Models\\Assessment.cs",
+              "ToolTip": "D:\\ASP Code\\modelBinding\\modelBinding\\Models\\Assessment.cs",
+              "RelativeToolTip": "modelBinding\\Models\\Assessment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABAPQgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:08:16.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASP Code\\modelBinding\\modelBinding\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "modelBinding\\Models\\Student.cs",
+              "ToolTip": "D:\\ASP Code\\modelBinding\\modelBinding\\Models\\Student.cs",
+              "RelativeToolTip": "modelBinding\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:04:25.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿@using modelBinding.Models
+@model Marksheet
+
+@{
+    ViewBag.Title = "WithViewModel";
+}
+
+<h2>WithViewModel</h2>
+
+
+<p>RollNo: @Model.student.RollNo</p>
+<p>Student Name: @Model.student.StudentName</p>
+<p>ASP : @Model.assessment.asp</p>
+<p>Mobile : @Model.assessment.mobile</p>
+<p>Advance Network : @Model.assessment.advanceNetwork</p>
+<p>ISAD : @Model.assessment.isad</p>
+<p>Total Marks: @Model.totalMark</p>
